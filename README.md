@@ -8,7 +8,7 @@
 - `Vue.js` good
 - `React.js` not bad
 - `<HTML>` + `{CSS}` + `$Sass` good
-- `DATABASE` & `SQL`god
+- `DATABASE` & `SQL` good
 - `Git` not bad
 - `Redis` it's Easy
 
