@@ -2,15 +2,14 @@
 
 ## 👯 Skills / Languages
 
-- `<? php ?>` 
-- `{{ Laravel }}` 
-- `JavaScript`
-- `Vue.js` 
-- `React.js`  
-- `Angular.js`
-- `<HTML>` + `{CSS}` + `$Sass` 
-- `DATABASE` & `SQL`
-- `Git`
+- `<? php ?>` good
+- `{{ Laravel }}` very good
+- `JavaScript` good
+- `Vue.js` good
+- `React.js` not bad
+- `<HTML>` + `{CSS}` + `$Sass` good
+- `DATABASE` & `SQL`god
+- `Git` not bad
 - `Redis` it's Easy
 
 ## 🤔 ABOUT ME?
