@@ -1,16 +1,23 @@
 ### Hi there 👋
+## 🔭 What I do ? 
+Make that thing of yours even better. I can help either with the big picture or with specifics. 
 
-<!--
-**MrGheibi/mrgheibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👯 Skills / Languages
 
-Here are some ideas to get you started:
+- `<? php ?>` 
+- `{{ Laravel }}` 
+- `JavaScript`
+- `Vue.js` 
+- `React.js`  
+- `Angular.js`
+- `<HTML>` + `{CSS}` + `$Sass` 
+- `DATABASE` & `SQL`
+- `Git`
+- `Redis` it's Easy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤔 ABOUT ME?
+Start programming at age 16 with PHP and laravelT Work with basic HTML and CSS to create static websites. While learning, you decided to create an online tutorial
+
+We also work as a freelancer so you can contact us for a job. The crazy thing is that I also program in my spare time.
+
+Thank you for reading this. Putting time on something is always appreciatable 🙏
