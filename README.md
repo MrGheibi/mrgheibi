@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 👯 Skills / Languages
+## 💻 Skills / Languages
 
 - `<? php ?>` good
 - `{{ Laravel }}` very good
