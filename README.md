@@ -13,7 +13,7 @@
 - `Redis` it's Easy
 
 ## 🤔 ABOUT ME?
-Start programming at age 16 with PHP and laravelT Work with basic HTML and CSS to create static websites. While learning, you decided to create an online tutorial
+Start programming at age 16 with PHP and laravel Work with basic HTML and CSS to create static websites. While learning, you decided to create an online tutorial
 
 We also work as a freelancer so you can contact us for a job. The crazy thing is that I also program in my spare time.
 
